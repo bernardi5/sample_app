@@ -126,7 +126,6 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
   rails (= 3.2.1)
-  rspec
   rspec-rails
   sass-rails (~> 3.2.3)
   spork
